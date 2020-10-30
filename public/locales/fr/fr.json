@@ -1,0 +1,11 @@
+{
+    "app.login.pass": "",
+    "app.users.active": "",
+    "app.users.active_plural": "",
+    "appstore.app.description": "",
+    "index.blabla": "",
+    "index.placeholder": "L'éditeur a validations qui sont appliqués pour chaque chaîne de caractères qui est enregistré. Essayez de traduire cette chaîne sans le %s espace réservé et vous verrez.",
+    "index.untranslated_yet": "",
+    "index.welcome": "",
+    "main.country": "Sélectionnez un pays"
+}
